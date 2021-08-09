@@ -1,0 +1,65 @@
+.navbartext
+{
+    font-size: 18px;
+    font-weight: 500;
+}
+.center
+{
+    height: 100vh;
+    background-color: rgb(177, 177, 177);
+}
+.footer
+{
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+.button{
+padding: 3% 5% 3% 5%;
+border-radius: 25px;
+border:none;
+background-color: #17B069;
+color: white;
+font-weight: 500;
+}
+.bold
+{
+    font-weight: 500;
+}
+.facebook {
+    background: #3B5998;
+    color: white;
+    }
+    
+    .twitter {
+    background: #55ACEE;
+    color: white;
+    }
+    
+    .whatsapp {
+    background:green;
+    color: white;
+    }
+    
+    .linkedin {
+    background: #007bb5;
+    color: white;
+    display: inline-block;
+  border-radius:50%;
+  box-shadow: 0px 0px 2px #888;
+  padding: 0.5em 0.6em;
+
+    }
+    
+    i.fa {
+        display: inline-block;
+        border-radius: 60px;
+        box-shadow: 0px 0px 2px #888;
+        padding: 0.5em 0.6em;
+        
+      }
+      i.facebook
+      {
+        padding: 0.5em 0.7em;
+      }
+     
+    
